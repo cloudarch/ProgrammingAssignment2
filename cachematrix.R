@@ -1,6 +1,5 @@
 ## Caching the Inverse of a Matrix 
-## Two helper functions to cache inverse of matrix to save repeated long running computations 
-## for the same result
+## Two helper functions to cache inverse of matrix to save repeated long running computations for the same result
 
 ## makeCacheMatrix : 
 ## caches given matrix and its inverse into global space and
